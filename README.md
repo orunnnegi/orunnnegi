@@ -1,4 +1,4 @@
-![logo](https://github.com/orunnnegi/orunnnegi/blob/main/Black%20And%20Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+
 <h1 align="center">Hello World! 👋, I'm Arun Negi :D</h1>
 <h3 align="center">A passionate Btech Undergrad from Dehradun, Uttarakhand..</h3>
 <img align= "right" alt="coding" width= "400" src= "https://media.tenor.com/HTkmYk28J80AAAAM/chatgpt-cheating-cheating.gif">
